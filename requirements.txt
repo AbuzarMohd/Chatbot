@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-huggingface
+pypdf
+faiss-cpu
